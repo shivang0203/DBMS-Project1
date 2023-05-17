@@ -52,6 +52,20 @@ Once the Food Management Website is set up and running, follow these guidelines 
    - The admin dashboard provides an overview of the revenue generated.
    - The revenue is automatically calculated based on the orders placed by customers.
 
+## ScreenShots
+<img width="1440" alt="Screenshot 2023-05-17 at 10 02 41 PM" src="https://github.com/shivang0203/DBMS-Project1/assets/94477758/54dee92a-c9ce-4224-b6db-eab48ede393f">
+<img width="1440" alt="Screenshot 2023-05-17 at 10 03 07 PM" src="https://github.com/shivang0203/DBMS-Project1/assets/94477758/cfe576a5-62aa-432d-92bc-49dfb950cc46">
+<img width="1440" alt="Screenshot 2023-05-17 at 10 03 20 PM" src="https://github.com/shivang0203/DBMS-Project1/assets/94477758/5e6563d9-f1e4-4fdd-913e-b7d608b616a0">
+<img width="1440" alt="Screenshot 2023-05-17 at 10 03 35 PM" src="https://github.com/shivang0203/DBMS-Project1/assets/94477758/88c8f242-5343-4bd8-a3f4-d388d5f7e58b">
+<img width="1440" alt="Screenshot 2023-05-17 at 10 03 54 PM" src="https://github.com/shivang0203/DBMS-Project1/assets/94477758/0a274b0d-4040-43d6-a77d-ceea437e6590">
+<br>**Admin Pannel**<br>
+<img width="1440" alt="Screenshot 2023-05-17 at 10 04 18 PM" src="https://github.com/shivang0203/DBMS-Project1/assets/94477758/3d584820-a1cc-457b-9b67-256c9ad7656e">
+<img width="1440" alt="Screenshot 2023-05-17 at 10 05 04 PM" src="https://github.com/shivang0203/DBMS-Project1/assets/94477758/7a9d2bb4-dacf-487a-bc31-2937cfb3d02d">
+<img width="1440" alt="Screenshot 2023-05-17 at 10 05 22 PM" src="https://github.com/shivang0203/DBMS-Project1/assets/94477758/85e9e6c4-3c6f-4f9f-81ec-0c134aeea95e">
+<img width="1440" alt="Screenshot 2023-05-17 at 10 05 35 PM" src="https://github.com/shivang0203/DBMS-Project1/assets/94477758/4d820c86-78bd-4631-8be3-90e3bf85303d">
+<img width="1440" alt="Screenshot 2023-05-17 at 10 05 50 PM" src="https://github.com/shivang0203/DBMS-Project1/assets/94477758/3daa9daf-9086-44cf-99ed-62c9cfd6c6fc">
+<img width="1440" alt="Screenshot 2023-05-17 at 10 06 04 PM" src="https://github.com/shivang0203/DBMS-Project1/assets/94477758/93b982f0-97e0-456d-a313-bca90c9ebcf8">
+
 ## Contributing
 
 Contributions to the Food Management Website are welcome! If you find any bugs, want to add new features, or enhance existing functionality, please follow these steps:
@@ -66,10 +80,11 @@ Contributions to the Food Management Website are welcome! If you find any bugs, 
 
 The Food Management Website is open-source software licensed under the [MIT License](LICENSE).
 
+
 ## Contact
 
 
 
-For any inquiries or support regarding the Food Management Website, please contact us at `support@example.com`.
+For any inquiries or support regarding the Food Management Website, please contact us at `shivangbhargava01@gmail.com`.
 
 We hope you find the Food Management Website useful and user-friendly for managing food categories, customer orders, and revenue tracking in your restaurant!
