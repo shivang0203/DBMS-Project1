@@ -1,6 +1,6 @@
 # Restaurant Management Website
 
-The Food Management Website is a web application designed to help restaurants effectively manage their food categories, handle customer orders, track revenue generated, and provide controlled access for administrators. This README file provides an overview of the website's features, installation instructions, and usage guidelines.
+The Restaurant Management Website is a web application designed to help restaurants effectively manage their food categories, handle customer orders, track revenue generated, and provide controlled access for administrators. This README file provides an overview of the website's features, installation instructions, and usage guidelines.
 
 ## Features
 
